@@ -1,4 +1,8 @@
-<h1><img src="https://media.giphy.com/media/LYfDXA4FQJSt4aQrIG/giphy.gif" width="160"/>Welcome to my GitHub profile!</h1>
+<h1><img src="https://media.giphy.com/media/LYfDXA4FQJSt4aQrIG/giphy.gif" width="160"/>
+<div align="center">
+<img src="Welcome to my GitHub profile!.svg" width="1000"/>
+</div>
+</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/jZ95MZU7qLrl2D9YQb/giphy.gif" alt="greetings"/>
 </div>
