@@ -3,4 +3,36 @@
   font-family: Arial Black;
   dominant-baseline: central;
   text-anchor: middle;
-}</style></svg>
+  animation: rainbow 0.5s infinite;
+}
+@keyframes rainbow {
+  0% {
+            fill: #7694e4;
+            transform: translateY(0%);
+          }
+          17% {
+            fill: green;
+            transform: translateY(1%);
+          }
+          33% {
+            fill: yellow;
+            transform: translateY(2%);
+          }
+          50% {
+            fill: orange;
+            transform: translateY(2.5%);
+          }
+          67% {
+            fill: red;
+            transform: translateY(2%);
+          }
+          83% {
+            fill: hotpink;
+            transform: translateY(1%);
+          }
+          100% {
+            fill: #7694e4;
+            transform: translateY(0%);
+          }
+}
+</style></svg>
