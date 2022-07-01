@@ -25,6 +25,12 @@
 - :rainbow: I love shiny, sparkly, colourful things, but I suppose you have already figured that out
 - :racing_car: :soccer: But, in contrast, I love football and formula 1 (recently got into it) too
 
+<h3>  
+Visitors count 
+</h3> 
+
+![Visitor Count](https://profile-counter.glitch.me/{ralucapascu}/count.svg)
+
 <!---
 ralucapascu/ralucapascu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
