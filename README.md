@@ -22,6 +22,8 @@
 
 - :woman_student: I’m in my final year as a student at the University of Bucharest, Computers and Information Technology
 - :open_book: I'm currently learning more about DevOps and Docker <img src="https://media.giphy.com/media/2cKnOCGJI54emAKFYu/giphy.gif" width="40"/>
+- :rainbow: I love shiny, sparkly, colourful things, but I suppose you have already figured that out
+- :racing_car: :soccer: But, in contrast, I love football and formula 1 (recently got into it) too
 
 <!---
 ralucapascu/ralucapascu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
