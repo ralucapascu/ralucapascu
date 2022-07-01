@@ -1,6 +1,7 @@
-<h1><img src="https://media.giphy.com/media/LYfDXA4FQJSt4aQrIG/giphy.gif" width="160"/>
+<h1>
 <div align="center">
 <img src="Welcome to my GitHub profile!.svg" width="1000"/>
+<img src="https://media.giphy.com/media/grGERyO90y9roBbVxR/giphy.gif" width="1400" height="400"/>
 </div>
 </h1>
 <div align="center">
