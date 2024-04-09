@@ -20,10 +20,10 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-- :woman_student: I’m in my final year as a student at the University of Bucharest, Computers and Information Technology
-- :open_book: I'm currently learning more about DevOps and Docker <img src="https://media.giphy.com/media/2cKnOCGJI54emAKFYu/giphy.gif" width="40"/>
+- :woman_student: I’m a Software Engineering Master student at the University of Bucharest
+- :open_book: Currently mastering my Java skills
 - :rainbow: I love shiny, sparkly, colourful things, but I suppose you have already figured that out
-- :racing_car: :soccer: But, in contrast, I love football and formula 1 (recently got into it) too
+- :racing_car: :soccer: I'm a fan of football and formula 1
 
 <h3>  
 Visitors count 
